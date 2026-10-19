@@ -17,11 +17,11 @@
 
 Bạn có thể tải phiên bản mới nhất của launcher tại đây:
 
-* **[Teck-PS1-VI-EN.exe](ĐƯỜNG_DẪN_TẢI_XUỐNG_CỦA_BẠN)**
+* **[Tải xuống Teck-PS1-VI-EN.exe](https://github.com/DaoHao-dev/Teck-R.E.P.O.-Mod-Launcher-vi/raw/main/release-files/Teck-PS1-VI-EN.exe)**
+* [Tải file mã kiểm tra SHA256](https://github.com/DaoHao-dev/Teck-R.E.P.O.-Mod-Launcher-vi/raw/main/release-files/Teck-PS1-VI-EN-SHA256.txt)
 
 > ⚠️ **Lưu ý về Windows Defender:** 
 > Việc phân phối trực tiếp file `.exe` hiện đang bị Microsoft Defender nhận diện nhầm (hiện tượng phổ biến với các ứng dụng đóng gói bằng PyInstaller hoặc chưa có chữ ký số). Nếu phần mềm diệt virus chặn lại, bạn có thể an toàn cho phép nó chạy hoặc xem mã nguồn để tự build.
-
 
 **Teck** là launcher dành cho R.E.P.O. trên Windows, kết hợp bộ cài mod với giao diện lấy cảm hứng từ PlayStation đời đầu. Nắp máy mở để lộ đĩa xoay; các nút trên thân máy trở thành nút mở game, cài mod và thiết lập.
 

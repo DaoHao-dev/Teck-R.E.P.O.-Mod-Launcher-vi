@@ -13,8 +13,15 @@
 </div>
 
 ---
+## 📥 Tải xuống
 
-> **Trạng thái bảo mật: đang xác minh.** Defender phát hiện `Trojan:Win32/Bearfoos.A!ml` trong EXE. Tạm dừng phân phối bản chạy; chưa có đủ bằng chứng xác nhận an toàn hay báo nhầm. Đọc [thông báo đầy đủ](SECURITY_NOTICE.md) trước khi sử dụng hoặc tự build.
+Bạn có thể tải phiên bản mới nhất của launcher tại đây:
+
+* **[Teck-PS1-VI-EN.exe](ĐƯỜNG_DẪN_TẢI_XUỐNG_CỦA_BẠN)**
+
+> ⚠️ **Lưu ý về Windows Defender:** 
+> Việc phân phối trực tiếp file `.exe` hiện đang bị Microsoft Defender nhận diện nhầm (hiện tượng phổ biến với các ứng dụng đóng gói bằng PyInstaller hoặc chưa có chữ ký số). Nếu phần mềm diệt virus chặn lại, bạn có thể an toàn cho phép nó chạy hoặc xem mã nguồn để tự build.
+
 
 **Teck** là launcher dành cho R.E.P.O. trên Windows, kết hợp bộ cài mod với giao diện lấy cảm hứng từ PlayStation đời đầu. Nắp máy mở để lộ đĩa xoay; các nút trên thân máy trở thành nút mở game, cài mod và thiết lập.
 

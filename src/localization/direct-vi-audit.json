@@ -1,0 +1,54 @@
+[
+  {
+    "package": "BepInEx-BepInExPack-5.4.2305.zip",
+    "modified_dlls": [],
+    "sha256": "b72a5a230cef7ae08844b337e23a0cb51cacd4b7cb94246aa6de561cb5172119"
+  },
+  {
+    "package": "nickklmao-MenuLib-2.5.2.zip",
+    "modified_dlls": [
+      "MenuLib.dll"
+    ],
+    "sha256": "b7c7844249dccd1353320168d6121efb831c35afa936ca5e9da79d18110fb9e8"
+  },
+  {
+    "package": "nickklmao-REPOConfig-1.2.6.zip",
+    "modified_dlls": [
+      "REPOConfig.dll"
+    ],
+    "sha256": "3a9f11da4d74528cbc722f8bf787f4f4c6e8d29762c39a2a4784a8562c4d535a"
+  },
+  {
+    "package": "Ozoka_Gaming-MorePlayers-1.1.0.zip",
+    "modified_dlls": [
+      "MorePlayers.dll"
+    ],
+    "sha256": "0f97f10781d0ba2f2736c3b4ebdbf4df004bdb43547e88131ea7142b2cbcc8fd"
+  },
+  {
+    "package": "Teck-VietnameseUI-1.0.0.zip",
+    "modified_dlls": [],
+    "sha256": "710f1898e12d51e0c12f088b81ca86989807eeb1eb90634d9562ef505a6bd4c3"
+  },
+  {
+    "package": "Vippy-SharedUpgradesPlus-1.6.1.zip",
+    "modified_dlls": [
+      "SharedUpgradesPlus.dll"
+    ],
+    "sha256": "b1f7e3581941a6f4411b1dcc17dff0fa90cf38cb846bd1dfc4f735d4a79a2926"
+  },
+  {
+    "package": "Zichen-CosmeticsTools-1.0.1.zip",
+    "modified_dlls": [
+      "Zichen-CosmeticsTools-1.0.1.dll"
+    ],
+    "sha256": "18fc0872993e9bebcf79c9d650890aab0b80499064e7476460ae63074edc8f1a"
+  },
+  {
+    "package": "Zichen-GameTools-1.0.9.zip",
+    "modified_dlls": [
+      "Zichen-GameTools-1.0.9.dll"
+    ],
+    "sha256": "da546c36fe98ab2503b1b5312f4b0ba7ef9342fc0c9f3bc514c0ef494de27c88"
+  }
+]

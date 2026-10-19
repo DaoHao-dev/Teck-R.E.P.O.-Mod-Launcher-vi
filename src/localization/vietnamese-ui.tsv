@@ -1,0 +1,506 @@
+Mods	Bản mod
+Save Changes	Lưu thay đổi
+Unsaved Changes	Thay đổi chưa lưu
+You have unsaved changes, are you sure you want to exit?	Bạn chưa lưu thay đổi. Bạn có muốn thoát không?
+Mod Search	Tìm bản mod
+Back	Quay lại
+Revert	Hoàn tác
+Reset To Default	Về mặc định
+Are you sure you want to reset all settings back to default?	Đặt lại tất cả tùy chọn về mặc định?
+Reset 	Đặt lại 
+ settings?	 về mặc định?
+ON	BẬT
+OFF	TẮT
+<NONE>	<KHÔNG>
+General	Chung
+Show In Game	Hiển thị trong game
+Max Players	Số người tối đa
+Public Lobby Support	Hiển thị phòng công khai
+Maximum number of players allowed in a lobby.	Số người chơi tối đa được phép vào phòng.
+If enabled, public lobbies will be visible in the server list.	Khi bật, phòng công khai sẽ xuất hiện trong danh sách máy chủ.
+Game Control Center	Trung tâm điều khiển
+Host Prohibited	Chủ phòng đã vô hiệu hóa
+Global	Chung
+Cosmetics	Trang trí
+Players	Người chơi
+Item Control	Vật phẩm
+Game Visuals	Hiển thị
+Upgrades	Nâng cấp
+Spawner	Tạo vật thể
+Spawns	Quản lý quái
+Upgrades(Host)	Nâng cấp (chủ phòng)
+Spawner(Host)	Tạo vật thể (chủ phòng)
+Reset All Global Settings	Đặt lại tùy chọn chung
+Hotkeys & Key Conflict Resolution	Phím tắt và xử lý trùng phím
+Level & Round Control	Điều khiển màn và lượt chơi
+Next Level	Sang màn tiếp theo
+Reload Level	Tải lại màn hiện tại
+Reset All Visual Settings	Đặt lại tùy chọn hiển thị
+Free Flight & Hotkeys	Bay tự do và phím tắt
+Token Box Extraction Limit	Giới hạn thu hồi hộp xu
+All players need Mod	Tất cả người chơi cần cài mod
+Charging Station Enhancements	Nâng cấp trạm sạc
+Equipment & Resource Effects	Hiệu ứng trang bị và tài nguyên
+Valuable Shard Drop Configs	Tùy chọn rơi mảnh đồ quý
+Infinite Stamina (Sprint & Slide without draining energy)	Thể lực vô hạn (chạy và trượt không tốn thể lực)
+Save Level Changes	Lưu thay đổi cấp nâng cấp
+Reset All Upgrade Settings	Đặt lại tùy chọn nâng cấp
+Upgrade Levels & Limits	Cấp nâng cấp và giới hạn
+Waiting for player initialization...	Đang chờ khởi tạo người chơi…
+Reset All Monster Settings	Đặt lại tùy chọn quái
+Please enter a level session first!	Hãy vào một màn chơi trước!
+Spawn Rate & Difficulty Enhancements	Tần suất xuất hiện và độ khó
+Global Action/Overcharge Floor (Clamp all monsters' action & overcharge multipliers >= 0.1x)	Giới hạn hệ số hành động và quá tải của mọi quái từ 0,1 lần trở lên
+Global Enemy Director Status	Trạng thái điều phối quái toàn màn
+Force All Spawns	Cho tất cả quái xuất hiện
+Kill All Enemies	Tiêu diệt tất cả quái
+Force All Despawns	Cho tất cả quái biến mất
+Pull All Enemies	Kéo tất cả quái đến trước mặt
+Random Scatter Enemies	Phân tán quái ngẫu nhiên
+Clear All Spawns	Xóa mọi điểm sinh quái
+Reset All Scale	Đặt lại mọi kích thước
+Refresh Data	Làm mới dữ liệu
+Alive Enemies	Quái còn sống
+Despawned Slots	Ô quái chưa xuất hiện
+HP	Máu
+Life	Thời gian sống
+Diff	Độ khó
+Empty Area	Khu vực trống
+Player Near	Có người chơi ở gần
+Kill Enemy	Tiêu diệt quái
+Despawn	Cho biến mất
+Spawn In	Xuất hiện sau
+Spawn Now	Xuất hiện ngay
+Spawner is disabled for clients in multiplayer, only the host can use it!	Chỉ chủ phòng được tạo vật thể khi chơi nhiều người!
+Reset All Spawner Settings	Đặt lại tùy chọn tạo vật thể
+Enemies	Quái vật
+Custom Enemies	Quái từ mod
+Valuables	Đồ quý
+Cosmetic Boxes	Hộp trang trí
+Potions	Thuốc nâng cấp
+Melee	Cận chiến
+Ranged	Tầm xa
+Others	Khác
+Carts	Xe đẩy
+Vehicles	Phương tiện
+Drones	Thiết bị bay
+Other Items	Vật phẩm khác
+Custom Items	Vật phẩm từ mod
+Refresh	Làm mới
+Please enter a game level/lobby first!	Hãy vào màn chơi hoặc phòng chờ trước!
+This module has been disabled by the Host	Chủ phòng đã tắt tính năng này
+Enable Cosmetics & Visuals	Bật trang trí và hiển thị
+Reset Cosmetics & Visuals	Đặt lại trang trí và hiển thị
+Third-Person View	Góc nhìn thứ ba
+Model Appearance	Hình dáng nhân vật
+Auto Spin	Tự xoay
+Clockwise	Theo chiều kim đồng hồ
+Counter-Clockwise	Ngược chiều kim đồng hồ
+Eye Effects	Hiệu ứng mắt
+Flashlight Customization	Tùy chỉnh đèn pin
+Reset All Player Settings	Đặt lại tùy chọn người chơi
+Batch Operations	Thao tác cho cả đội
+Revive All	Hồi sinh tất cả
+Kill All	Hạ gục tất cả
+Pull All to Front	Kéo tất cả đến trước mặt
+Heal All	Hồi máu cả đội
+Scatter All	Phân tán tất cả
+To Truck (Self)	Về xe tải (bản thân)
+To Truck (All)	Về xe tải (cả đội)
+Pull Dead to Front	Kéo người đã chết đến trước mặt
+To Ext (Self)	Đến điểm thu hồi (bản thân)
+To Ext (All)	Đến điểm thu hồi (cả đội)
+Auto Revive Configurations	Tùy chọn tự hồi sinh
+Truck	Xe tải
+Extraction	Điểm thu hồi
+Cart	Xe đẩy
+5s timer	Sau 5 giây
+Seen	Khi được nhìn thấy
+After revive, auto-teleport to truck (default OFF)	Tự về xe tải sau khi hồi sinh (mặc định tắt)
+After death, auto-teleport to extraction point (default OFF)	Tự đến điểm thu hồi sau khi chết (mặc định tắt)
+After death, auto-teleport to truck (default OFF)	Tự về xe tải sau khi chết (mặc định tắt)
+Extraction Points Teleport	Dịch chuyển đến điểm thu hồi
+No extraction points available	Không có điểm thu hồi
+Player Management	Quản lý người chơi
+Checkbox on the left controls individual God Mode	Ô bên trái bật/tắt bất tử cho từng người
+All Teammates God Mode (Toggle All)	Bất tử cả đội (bật/tắt tất cả)
+Batch Spawn Confirm	Xác nhận tạo hàng loạt
+Kill All Teammates Confirm	Xác nhận hạ gục cả đội
+Reset All Item Settings	Đặt lại tùy chọn vật phẩm
+Permanent Indestructible Settings	Tùy chọn không hư hỏng
+All	Tất cả
+Invert	Đảo lựa chọn
+Beads	Viên ngọc
+Weapons	Vũ khí
+Cosmetic Box	Hộp trang trí
+Upgrade Potions	Thuốc nâng cấp
+Health Packs	Túi hồi máu
+Batteries	Pin
+Money Bags	Túi tiền
+Items Teleport Panel	Dịch chuyển vật phẩm
+Exclude Secured Items	Bỏ qua vật phẩm đã cất an toàn
+Cancel Teleport	Hủy dịch chuyển
+To Front	Đến trước mặt
+To Cart	Đến xe đẩy
+To Extraction	Đến điểm thu hồi
+Scatter	Phân tán ngẫu nhiên
+Unlock All	Mở khóa tất cả
+Remove All	Xóa tất cả
+Unlocked	Đã mở khóa
+Locked	Chưa mở khóa
+Unlock	Mở khóa
+Remove	Xóa
+Unlock Category	Mở khóa nhóm
+Remove Category	Xóa nhóm
+Search:	Tìm kiếm:
+Tokens	Xu trang trí
+Total	Tổng
+Clear All Tokens	Xóa toàn bộ xu
+Clear	Xóa hết
+Token interface unavailable.	Chưa truy cập được dữ liệu xu.
+All tokens cleared.	Đã xóa toàn bộ xu.
+All unlocked, {0} new.	Đã mở khóa tất cả, thêm {0} món.
+All removed, {0} items.	Đã xóa tất cả {0} món.
+Unlocked {0}, {1} new.	Đã mở khóa {0}, thêm {1} món.
+Removed {0}, {1} items.	Đã xóa {0}, gồm {1} món.
+Set {0} to {1}.	Đã đặt {0} thành {1}.
+Current: {0}    Unlocked {1}/{2}	Hiện tại: {0}    Đã mở {1}/{2}
+Showing {0} cosmetics, {1} sections	Đang hiện {0} món trang trí, {1} mục
+Common	Thường
+Uncommon	Ít gặp
+Rare	Hiếm
+UltraRare	Siêu hiếm
+Ultra Rare	Siêu hiếm
+Head	Đầu
+Body	Thân
+Arm	Tay
+Leg	Chân
+Hat	Mũ
+ArmRight	Tay phải
+ArmLeft	Tay trái
+LegRight	Chân phải
+LegLeft	Chân trái
+BodyTop	Thân trên
+BodyBottom	Thân dưới
+FootRight	Bàn chân phải
+FootLeft	Bàn chân trái
+Eyes	Mắt
+Glasses	Kính
+Ear	Tai
+Mouth	Miệng
+Face	Mặt
+Confirm	Xác nhận
+Cancel	Hủy
+Close	Đóng
+Completed	Hoàn tất
+Current Level	Màn hiện tại
+Environment	Môi trường
+Authority	Quyền điều khiển
+Player State	Trạng thái người chơi
+Mod Runtime Information	Thông tin hoạt động mod
+Host / MasterClient (Available)	Chủ phòng (có thể dùng)
+Client (Available, control requires Host)	Khách (điều khiển cần quyền chủ phòng)
+Singleplayer (Available)	Chơi một mình (có thể dùng)
+In Level / Game Session	Đang trong màn chơi
+In Lobby Menu	Đang ở phòng chờ
+Waiting for Player avatar...	Đang chờ nhân vật…
+Waiting for players to load...	Đang chờ người chơi tải xong…
+Player Ready (SteamID:	Người chơi đã sẵn sàng (SteamID:
+Enable GameTools Mod	Bật bộ công cụ GameTools
+Prohibit other players from using mod (Host Only)	Cấm người khác dùng mod (chỉ chủ phòng)
+Prohibit other players from using mod	Cấm người khác dùng mod
+Enable H Key Hotkey for Third-Person View	Bật phím H chuyển góc nhìn thứ ba
+Enable G Key Hotkey for God Flight Mode	Bật phím G bay và bất tử
+God Flight Mode [Hotkey: G] (Fly freely through walls with WASD+Space/Ctrl, auto-enables God Mode)	Bay xuyên tường [G] (WASD + Space/Ctrl, tự bật bất tử)
+3rd Person View [Hotkey: H] (Overlook local player)	Góc nhìn thứ ba [H] (nhìn nhân vật của bạn)
+Enable Super Jump (Modify local player jump force multiplier)	Bật nhảy cao (đổi hệ số lực nhảy của bạn)
+Jump Force Multiplier:	Hệ số lực nhảy:
+Tumble Fly Control (WASD + Space/Ctrl to fly freely in ragdoll state)	Bay khi lăn (WASD + Space/Ctrl để điều khiển)
+* Allows controlling ragdoll flight in mid-air. Wings will render automatically.	* Điều khiển bay khi đang lăn trên không. Cánh sẽ tự hiển thị.
+* Effects apply immediately. Infinite Battery only applies to local player.	* Áp dụng ngay. Pin vô hạn chỉ có tác dụng cho bạn.
+* Flip is a cosmetic effect via network rotation sync. Does not affect movement.	* Lộn ngược chỉ là hiệu ứng hình dáng, không ảnh hưởng di chuyển.
+* Multiplies the initial spawn slot count (takes effect next level) and reduces spawn cooldowns (real-time).	* Nhân số ô sinh quái từ màn sau và giảm thời gian chờ sinh quái ngay lập tức.
+* Select multiple eye colors to cycle/swap them dynamically in game.	* Chọn nhiều màu mắt để luân phiên trong game.
+* Spin and orbit radius sync to teammates and yourself (requires third-person and show self).	* Đồng bộ tốc độ và bán kính xoay cho cả đội (cần góc nhìn thứ ba và tự hiển thị).
+* Super Jump runs on local physics to help clear high walls or deep gaps.	* Nhảy cao áp dụng cho bạn, giúp vượt tường và hố sâu.
+* Third-Person is not restricted by host and lets you see your cosmetics in any mode.	* Góc nhìn thứ ba không bị giới hạn bởi chủ phòng.
+* Tip: 10s temporary protection is applied. Will release in 10s based on permanent settings.	* Bảo vệ tạm thời trong 10 giây, sau đó theo tùy chọn bảo vệ lâu dài.
+Enable Limit	Bật giới hạn
+Limit On	Đang giới hạn
+Unlimited	Không giới hạn
+Max Limit	Giới hạn tối đa
+Max Limit Per Round:	Giới hạn mỗi lượt:
+Max Quantity:	Số lượng tối đa:
+Override Token Box Extraction Limit (Set to 11 for Unlimited)	Đổi giới hạn hộp xu được thu hồi (đặt 11 để không giới hạn)
+Infinite Charging Station Energy (Recharge batteries without crystals)	Trạm sạc vô hạn (không cần tinh thể)
+Charging Station Healing (Heals 5 HP per second inside charging booth)	Hồi máu tại trạm sạc (5 máu/giây khi đứng trong trạm)
+Infinite Battery Controller (Enable for checked categories below)	Pin vô hạn (áp dụng cho các nhóm đã chọn bên dưới)
+Tools	Công cụ
+Remove Shard Limit (Monsters drop valuable shards upon death without count or distance limits)	Bỏ giới hạn mảnh đồ quý khi quái chết
+Teammates Drop Shard on Death (Drop a small valuable shard upon teammate death)	Đồng đội rơi mảnh đồ quý khi chết
+Teammates Drop Shard on Revive (Drop a small valuable shard upon teammate revive)	Đồng đội rơi mảnh đồ quý khi hồi sinh
+Enable Valuable Drop Multiplier (Customize drop count per monster)	Bật hệ số rơi đồ quý (tùy chỉnh theo quái)
+Drop Multiplier (count):	Hệ số số lượng rơi:
+Enable Upgrade Potion Limit Control	Bật giới hạn thuốc nâng cấp
+Upgrade Name	Tên nâng cấp
+Reset Monster Data on Level Load	Đặt lại dữ liệu quái khi tải màn
+Level Spawn Multiplier:	Hệ số sinh quái trong màn:
+Global Min Spawn:	Số sinh tối thiểu chung:
+Global Max Spawn:	Số sinh tối đa chung:
+Global Min Life:	Thời gian sống tối thiểu chung:
+Global Max Life:	Thời gian sống tối đa chung:
+Global Scale:	Kích thước chung:
+Min Spawn:	Số sinh tối thiểu:
+Max Spawn:	Số sinh tối đa:
+Min Life:	Thời gian sống tối thiểu:
+Max Life:	Thời gian sống tối đa:
+Action Spd:	Tốc độ hành động:
+Overcharge:	Quá tải:
+Spawn Dist:	Khoảng cách sinh:
+Spawn Qty:	Số lượng sinh:
+Pull Distance:	Khoảng cách kéo:
+Pull Interval:	Khoảng chờ kéo:
+Delay Pull to Front	Trì hoãn kéo đến trước mặt
+Spawn Idle Pause: {0:F1}s | Total Slots: {1}	Chờ sinh: {0:F1}s | Tổng số ô: {1}
+No alive enemies in the level.	Không còn quái sống trong màn.
+No despawned enemy slots.	Không có ô quái đang ẩn.
+No enemy slots loaded in the current level...	Chưa tải ô sinh quái của màn này…
+No assets found for this category. Try clicking [Refresh].	Không có vật thể trong nhóm này. Hãy nhấn [Làm mới].
+Are you sure to spawn <color=#FFCC00>{0}</color> items?\nItem: {1}	Tạo <color=#FFCC00>{0}</color> vật thể?\nVật thể: {1}
+Are you sure you want to kill all teammates in the scene?	Bạn có muốn hạ gục toàn bộ đồng đội trong màn không?
+Camera Distance:	Khoảng cách máy quay:
+Camera Height:	Độ cao máy quay:
+Camera Horizontal (Left/Right):	Độ lệch máy quay (trái/phải):
+Model Scale:	Kích thước nhân vật:
+Enable Upside-Down (Other players see your model flipped)	Bật lộn ngược nhân vật (đồng đội nhìn thấy)
+Show Flip to Self (Requires third-person view)	Tự nhìn thấy lộn ngược (cần góc nhìn thứ ba)
+Enable Model Spin (Model auto rotates in place)	Bật tự xoay nhân vật tại chỗ
+Show Spin to Self (Requires third-person view)	Tự nhìn thấy xoay (cần góc nhìn thứ ba)
+Freeze Current Spin Position	Giữ nguyên tư thế xoay hiện tại
+Spin Speed:	Tốc độ xoay:
+Orbit Radius:	Bán kính quỹ đạo:
+Left/Right	Trái/phải
+Front/Back	Trước/sau
+Horizontal Spin	Xoay ngang
+Center Spin	Xoay tại tâm
+Nod Forward	Cúi đầu
+Nod Backward	Ngửa đầu
+Drunk Sway	Lảo đảo
+Helical Wave	Sóng xoắn
+DNA Helix	Xoắn kép
+Coaster	Tàu lượn
+Vert Loop	Vòng dọc
+Leaning Drift	Lượn nghiêng
+Seesaw	Bập bênh
+Wobbly Gyro	Con quay lắc
+Washing	Lồng giặt
+Wings Always Active (Glowing wings stay active indefinitely)	Luôn mở cánh phát sáng
+Wings Color (Visible to All):	Màu cánh (cả đội nhìn thấy):
+Pink (Level 2)	Hồng (cấp 2)
+Blue (Level 3)	Xanh dương (cấp 3)
+Red/Blue Alternating	Đỏ/xanh luân phiên
+Play Wings Background Music (Toggle glide sound in active state, OFF by default)	Phát âm thanh lượn khi mở cánh (mặc định tắt)
+Enable Big Pupils	Bật đồng tử lớn
+Enable Pupil Auto Breath Scale	Đồng tử tự phồng/co
+Scale Speed:	Tốc độ co giãn:
+Enable Eye Color Effects	Bật hiệu ứng màu mắt
+Black & White Eyes	Mắt đen trắng
+Green Eyes	Mắt xanh lá
+Red Eyes	Mắt đỏ
+Pink Eyes	Mắt hồng
+Orange Eyes	Mắt cam
+Swap Interval:	Chu kỳ đổi màu:
+Flicker Interval:	Chu kỳ nhấp nháy:
+Enable Custom Flashlight Color (Sync to other players in real-time)	Bật màu đèn pin tùy chỉnh (đồng bộ cho cả đội)
+White (Default)	Trắng (mặc định)
+White	Trắng
+Black	Đen
+Green	Xanh lá
+Blue	Xanh dương
+Red	Đỏ
+Pink	Hồng
+Orange	Cam
+Cyan	Xanh ngọc
+Gold	Vàng kim
+Rainbow	Cầu vồng
+Always ON	Luôn bật
+Default (1s)	Mặc định (1 giây)
+Fast (0.2s)	Nhanh (0,2 giây)
+Interval:	Khoảng chờ:
+Auto Respawn	Tự hồi sinh
+Heal	Hồi máu
+Kill	Hạ gục
+Revive	Hồi sinh
+Pull	Kéo đến
+Goto	Đến chỗ
+Teleport All	Dịch chuyển cả đội
+Teleport Self	Dịch chuyển bản thân
+To Ext	Đến điểm thu hồi
+Dead	Đã chết
+Enemy	Quái
+Extract	Thu hồi
+Category: None	Chưa chọn nhóm
+Close	Đóng
+Switch to English	VI / EN
+Switch to Chinese	VI / EN
+切换中文	VI / EN
+切换英文	VI / EN
+切换语言	Ngôn ngữ
+中文 / English	Tiếng Việt
+English	Tiếng Việt
+中文	Tiếng Việt
+ (Host Only)	 (chỉ chủ phòng)
+ (Me)	 (tôi)
+(Host)	(chủ phòng)
+[Host]	[Chủ phòng]
+Sprint Speed	Tốc độ chạy
+Stamina Up	Tăng thể lực
+Health Up	Tăng máu
+Extra Jump	Nhảy thêm lần
+Glide Wings	Cánh lượn
+Crouch Rest	Hồi sức khi ngồi
+Revive Battery	Pin đầu hồi sinh
+Leap Boost	Tăng lực phóng
+Scanner Count	Số người trên bản đồ
+Grab Range	Tầm cầm nắm
+Grab Strength	Sức nâng
+Throw Force	Lực ném
+Climb Speed	Tốc độ leo
+Health	Máu
+Stamina	Thể lực
+Energy	Thể lực
+SprintSpeed	Tốc độ chạy
+GrabStrength	Sức nâng
+GrabRange	Tầm cầm nắm
+EnableSharedUpgrades	Bật chia sẻ nâng cấp
+SharedUpgradesChance	Tỉ lệ chia sẻ nâng cấp
+SharedUpgradesChanceMode	Cách tính tỉ lệ chia sẻ
+LateJoinSync	Đồng bộ cho người vào sau
+EnableModdedUpgrades	Chia sẻ nâng cấp từ mod
+AvoidMoreUpgradesDoubleShare	Tránh cộng trùng với MoreUpgrades
+ScalePriceWithSharing	Tăng giá theo số đồng đội
+PricePerExtraCopy	Phần trăm tăng giá cho mỗi người nhận
+EnableSharedUpgradeHeal	Hồi đầy máu khi nhận nâng cấp máu
+EnableShareNotification	Hiệu ứng khi nhận nâng cấp
+LogLevel	Mức ghi nhật ký
+Effects	Hiệu ứng
+Vanilla Upgrades	Nâng cấp gốc
+Modded Upgrades	Nâng cấp từ mod
+Each player	Từng người
+Whole team	Cả đội
+Share Limit	Giới hạn chia sẻ
+Enable or disable all upgrade sharing	Bật hoặc tắt toàn bộ chia sẻ nâng cấp
+Chance per upgrade level to be shared with each player	Tỉ lệ chia sẻ mỗi cấp nâng cấp cho từng người
+Sync upgrades to players who join mid-run	Đồng bộ nâng cấp cho người vào giữa lượt
+Sync upgrades added by other mods	Đồng bộ nâng cấp được thêm bởi mod khác
+Heal players to full HP when receiving a shared health upgrade	Hồi đầy máu khi người chơi nhận nâng cấp máu chung
+Provide a visual effect when upgrades are shared with you	Hiện hiệu ứng khi bạn được chia sẻ nâng cấp
+Others won't receive this upgrade past this level (0 = unlimited)	Không chia sẻ vượt cấp này (0 = không giới hạn)
+Language	Ngôn ngữ
+Mod Enabled	Bật mod
+Open Key	Phím mở menu
+Open Keybind	Phím mở menu
+Mod Info	Thông tin mod
+Global Settings	Tùy chọn chung
+Version	Phiên bản
+Switch display language. Live updates UI.	Đổi ngôn ngữ giao diện và áp dụng ngay.
+Disable to turn off the whole mod.	Tắt để vô hiệu hóa toàn bộ mod.
+If enabled as host, prohibits other players in the room from using this mod.	Khi bạn làm chủ phòng, chặn người khác trong phòng dùng mod này.
+Enable H-Key Hotkey	Bật phím tắt H
+If enabled, pressing H key in-game toggles third person view.	Phím H bật/tắt góc nhìn thứ ba trong game.
+Enable G-Key Hotkey	Bật phím tắt G
+If enabled, pressing G key in-game toggles god flight mode.	Phím G bật/tắt bay và bất tử trong game.
+The key used to open/close the GUI menu.	Phím dùng để mở/đóng menu.
+Enable Cosmetics Tab Features	Bật các tính năng trong thẻ Trang trí
+Wings Show Frequency	Tần suất hiển thị cánh
+Eye Effect Selection	Chọn hiệu ứng mắt
+Eye Pupil Scale Auto	Đồng tử tự co giãn
+Eye Pupil Scale Speed	Tốc độ co giãn đồng tử
+Eye Color Mode (0=Single, 1=Multi)	Chế độ màu mắt (0=một màu, 1=nhiều màu)
+Eye Multi-select Red	Chọn màu mắt đỏ
+Eye Multi-select Green	Chọn màu mắt xanh lá
+Eye Multi-select Orange	Chọn màu mắt cam
+Eye Multi-select Love	Chọn mắt trái tim
+Eye Multi-select Inverted	Chọn mắt đảo màu
+Flashlight Color Enabled	Bật màu đèn pin tùy chỉnh
+Flashlight Color Index	Mã màu đèn pin
+Enable Model Auto Spin	Bật nhân vật tự xoay
+Model Spin Direction: 1=Clockwise 2=Counter-Clockwise	Chiều xoay: 1=thuận, 2=ngược chiều kim đồng hồ
+Model Spin Speed in rotations per second	Tốc độ xoay nhân vật, tính bằng vòng/giây
+Freeze Model Spin Position	Giữ nguyên tư thế xoay
+Model Spin Radius (0.0 - 5.0m)	Bán kính xoay (0–5 mét)
+Jump Force Multiplier	Hệ số lực nhảy
+Infinite Weapon Battery	Pin vũ khí vô hạn
+Infinite Charging Station Energy	Năng lượng trạm sạc vô hạn
+Heals 5 HP per second at the charging station	Hồi 5 máu/giây tại trạm sạc
+Infinite Battery for Melee	Pin vô hạn cho vũ khí cận chiến
+Infinite Battery for Ranged	Pin vô hạn cho vũ khí tầm xa
+Infinite Battery for Vehicles	Pin vô hạn cho phương tiện
+Infinite Battery for Drones	Pin vô hạn cho thiết bị bay
+Infinite Battery for Tools	Pin vô hạn cho công cụ
+Spawn Rate Multiplier	Hệ số tần suất sinh quái
+Enemy Pull Interval	Khoảng chờ giữa các lần kéo quái
+Enemy Pull Distance	Khoảng cách kéo quái
+Spawn Distance in front of player	Khoảng cách tạo vật thể trước mặt người chơi
+Remove Pillar Limit	Bỏ giới hạn rơi mảnh đồ quý
+Pillar Drop Multiplier Enabled	Bật hệ số rơi mảnh đồ quý
+Pillar Drop Multiplier	Hệ số rơi mảnh đồ quý
+Teammates Drop Small Shard on Death	Đồng đội rơi mảnh đồ quý khi chết
+Teammates Drop Small Shard on Revive	Đồng đội rơi mảnh đồ quý khi hồi sinh
+Limit Cosmetic Boxes	Giới hạn hộp trang trí
+Limit Cosmetic Boxes Value	Số hộp trang trí tối đa
+Auto Revive Teammates	Tự hồi sinh đồng đội
+Auto Revive When Seen by Teammate	Tự hồi sinh khi được đồng đội nhìn thấy
+Revive when head is brought to truck	Hồi sinh khi đầu được mang về xe tải
+Revive when head is placed at extraction point	Hồi sinh khi đầu được đặt tại điểm thu hồi
+Revive when head is placed on a cart	Hồi sinh khi đầu được đặt trên xe đẩy
+After revive, auto teleport to truck	Tự về xe tải sau khi hồi sinh
+Auto teleport to truck upon death	Tự về xe tải sau khi chết
+Auto teleport to current extraction point upon death	Tự đến điểm thu hồi hiện tại sau khi chết
+Limit Action And Overcharge Multiplier	Giới hạn hệ số hành động và quá tải
+Reset Monster Data On Level Load	Đặt lại dữ liệu quái khi tải màn
+Third Person Enabled	Bật góc nhìn thứ ba
+Third Person Distance	Khoảng cách góc nhìn thứ ba
+Third Person Height	Độ cao góc nhìn thứ ba
+Third Person Model Scale	Kích thước nhân vật ở góc nhìn thứ ba
+Third Person Horizontal Offset	Độ lệch ngang góc nhìn thứ ba
+God Mode Flight Enabled	Bật bay và bất tử
+All Teammates God Mode	Bất tử cả đội
+Valuable God Mode Bead	Ngọc không bị hỏng
+Valuable God Mode Weapon	Vũ khí không bị hỏng
+Valuable God Mode Vehicle	Phương tiện không bị hỏng
+Valuable God Mode Cosmetic	Hộp trang trí không bị hỏng
+Valuable God Mode Potion	Thuốc nâng cấp không bị hỏng
+Valuable God Mode Heal Pack	Túi hồi máu không bị hỏng
+Valuable God Mode Battery	Pin không bị hỏng
+Valuable God Mode Money Bag	Túi tiền không bị hỏng
+Tab 0 Global Settings Master Switch	Bật thẻ Tùy chọn chung
+Tab 1 Player Settings Master Switch	Bật thẻ Người chơi
+Tab 2 Item Control Master Switch	Bật thẻ Điều khiển vật phẩm
+Tab 3 Visual Settings Master Switch	Bật thẻ Hiển thị
+Tab 4 Spawner Settings Master Switch	Bật thẻ Tạo vật thể
+Tab 5 Monster Settings Master Switch	Bật thẻ Quản lý quái
+Tab 6 Upgrade Settings Master Switch	Bật thẻ Nâng cấp
+Limit max level for	Giới hạn cấp tối đa cho
+Max level limit for	Cấp tối đa của
+Enable sharing for	Bật chia sẻ cho
+When MoreUpgrades is set to team-share one of its own upgrades (its per-upgrade 'Allow Team Upgrades' or 'Sync Host Upgrades' toggles), skip sharing that upgrade here so the team doesn't get it twice	Bỏ qua chia sẻ ở đây khi MoreUpgrades đã tự chia sẻ nâng cấp đó, để tránh cộng hai lần.
+How the share chance is rolled. 'Each player' rolls separately for every teammate, so the team spreads out. 'Whole team' rolls once per purchase, so the whole team gets the upgrade or nobody does.	Từng người: xét tỉ lệ riêng cho mỗi đồng đội. Cả đội: xét một lần để tất cả cùng nhận hoặc không nhận.
+Charge for the copies. One purchase kits out the whole team, so the shop price of an upgrade goes up by how many teammates would receive it. Off by default, prices stay vanilla	Tăng giá theo số đồng đội nhận nâng cấp. Mặc định tắt, giữ giá gốc.
+Percent of the base price added per teammate who would receive the upgrade. 100 means an upgrade going out to three teammates costs four times base. Only used when ScalePriceWithSharing is on	Phần trăm giá gốc cộng thêm cho mỗi đồng đội. Chỉ áp dụng khi bật tăng giá theo số người nhận.
+Off: key events only (sync start/result, purchases). Debug: per-player distribution results and skips. Verbose: full trace of every step.	Tắt: chỉ ghi sự kiện chính. Gỡ lỗi: ghi chi tiết từng người. Chi tiết: ghi toàn bộ các bước.
+模组信息	Thông tin mod
+模组名称	Tên mod
+装饰工具箱	Bộ công cụ trang trí
+模组版本号	Phiên bản mod
+语言/Language	Ngôn ngữ
+公开文档和配置说明语言切换。仅该项保留中英并列格式。	Chọn ngôn ngữ cho giao diện và mô tả tùy chọn.
+A.全局设置	A. Tùy chọn chung
+模组启用	Bật mod
+关闭后整个模组全部功能彻底失效	Tắt để vô hiệu hóa toàn bộ tính năng của mod.
+打开按键	Phím mở menu
+按下此键打开或关闭装饰工具箱。	Nhấn phím này để mở hoặc đóng bộ công cụ trang trí.
+ token.	 xu.
+ tokens.	 xu.
+ cleared.	 đã xóa.
+Unlocked: {0} / {1}	Đã mở khóa: {0} / {1}
